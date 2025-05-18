@@ -119,7 +119,7 @@
             <p>Providing quality education that inspires students to achieve their best potential and shape their future.</p>
         </div>
         <div class="section">
-            <h3>Courses & Programs</h3>
+            <h3>Course & Programs</h3>
             <p>Explore our wide range of undergraduate, graduate, and certification programs designed for student success.</p>
         </div>
         <div class="section">
